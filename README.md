@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Michael Shelley and I am currently a first year chemical engineering student at the University of Waterloo. 
 <!--
 **MichaelShelley/MichaelShelley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
